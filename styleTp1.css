@@ -1,0 +1,165 @@
+body
+{
+    color: red;
+    background-color: rgb(90, 171, 218);
+}
+h1
+{
+    color: rgb(3, 184, 93);
+    font-style: italic;
+    text-decoration: underline;
+    Text-transform: uppercase;
+    display: block;
+    border-bottom: 2px double rgb(90, 171, 218);
+    border-left: 2px dashed rgb(90, 171, 218);
+    border-top: 2px dotted rgb(90, 171, 218);
+    border-right: 2px dashed rgb(90, 171, 218);
+    border-radius: 0px 0px 2px 2px;
+    width: 60%;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    text-align: center;
+    height: 20px;
+    margin-left: 20%;
+    margin-right: 20%;
+    box-shadow: 1px 1px 5px 1px rgb(12, 0, 54);
+}
+p
+{
+    color: #000000;
+    text-indent: 2%;
+    text-align: justify;
+    background-color: #b1d5f5;
+    font-style: normal;
+    font-weight: normal;
+    border-radius: 15px 10px 5px;
+    border-style: dotted;
+    border-color: rgb(90, 171, 218);
+    padding: 1%;
+    margin-left: 4%;
+    margin-right: 5%;
+    width: 90%;
+    text-align: center;
+    height: 150px;
+    overflow: hidden;
+    font-size: 1.2em;
+    box-shadow: 1px 1px 5px 1px rgb(12, 0, 54);
+}
+h1+p
+{
+    color: rgb(6, 153, 6);
+}
+p a
+{
+    color: black;
+}
+.pimp
+{
+    color: black;
+    font-style: normal;
+    text-align: justify;
+}
+#pnoir
+{
+    color: black;
+    font-size: 1.2em;
+    text-align: justify;
+}
+.pmot
+{
+    font-weight: bold;
+    text-align: justify;
+}
+#troispitalic
+{
+    font-style: italic;
+    text-align: justify;
+}
+.ptaille
+{
+    font-size: 1.2em;
+    text-align: justify;
+}
+.pitalic
+{
+    font-style: italic;
+    text-align: justify;
+}
+.soustitredeuxmapage
+{
+    font-weight: bold;
+    text-decoration: underline;
+    font-style: italic;
+    font-family: 'Trebuchet MS';
+    color: rgb(22, 185, 144);
+    width: 40%;
+    border-style: groove;
+    border-radius: 2px 5px 3px 7px;
+}
+h1,h2
+{
+    text-transform: capitalize;
+}
+h2
+{
+    color: rgb(22, 185, 144);
+    background-color: white;
+    text-shadow: 20px -5px 7px rgba(3, 184, 94, 0.349);
+    border: 2px dotted white;
+    width: 40%;
+    margin-left: 50%;
+    border-radius: 2px 5px 3px 7px;
+    /*padding-left: 0%;
+    padding-right: 30%;*/
+    font-style: italic;
+    text-decoration: underline;
+    font-weight: bold;
+    font-family: 'Trebuchet MS';
+    border-style: groove;
+    border-color: rgb(90, 171, 218);
+    padding-left: 30px;
+}
+h1,h2
+{
+    opacity: 0.8;
+    text-transform: uppercase;
+}
+#corps
+{
+    background-color: #b1d5f5;
+    width: 90%;
+    min-height: 1600px;
+    overflow: auto;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid #888282;
+    box-shadow: 1px 1px 5px 1px rgb(12, 0, 54);
+    border-radius: 15px;
+    border-style: dashed;
+    border-color: white;
+} 
+li
+{
+    color: black;
+    font-size: 1.2em;
+}
+hr
+{
+    color: aliceblue;
+}
+ol,ul
+{
+    padding-left: 72%;
+}
+#Astou
+{
+    color: blue;
+    text-decoration: underline;
+    font-weight: bold;
+}
+.amies
+{
+    color: blue;
+    text-decoration: underline;
+}
